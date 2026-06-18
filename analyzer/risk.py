@@ -1,4 +1,3 @@
-# analyzer/risk.py
 from dataclasses import dataclass, field
 from analyzer.reader import ProjectStructure, FileNode
 from analyzer.dependency import DependencyGraph

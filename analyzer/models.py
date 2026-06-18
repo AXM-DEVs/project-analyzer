@@ -1,4 +1,3 @@
-# analyzer/models.py  ← NEW FILE — create this
 from dataclasses import dataclass, field
 from pathlib import Path
 from analyzer.reader import ProjectStructure

@@ -1,4 +1,3 @@
-# generator/documentation.py
 from analyzer.models import AnalysisResult
 from analyzer.reader import FileNode
 from utils.logger import get_logger

@@ -1,4 +1,3 @@
-# analyzer/core.py  ← replace the whole file
 import shutil
 from analyzer.reader import ProjectReader
 from analyzer.language import LanguageDetector

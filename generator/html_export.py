@@ -1,4 +1,3 @@
-# generator/html_export.py
 import json
 from pathlib import Path
 from generator.architecture import ArchitectureMapper

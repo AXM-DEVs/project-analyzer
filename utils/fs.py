@@ -1,4 +1,3 @@
-# utils/fs.py
 import os
 import zipfile
 import tempfile

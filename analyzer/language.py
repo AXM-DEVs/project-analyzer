@@ -1,4 +1,3 @@
-# analyzer/language.py
 from dataclasses import dataclass, field
 from collections import Counter
 from analyzer.reader import ProjectStructure, FileNode

@@ -1,4 +1,3 @@
-# main.py
 import click
 import sys
 from pathlib import Path

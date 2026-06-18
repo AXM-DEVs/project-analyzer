@@ -1,4 +1,3 @@
-# generator/architecture.py
 import json
 from analyzer.models import AnalysisResult
 from utils.logger import get_logger

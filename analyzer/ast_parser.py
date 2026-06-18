@@ -1,4 +1,3 @@
-# analyzer/ast_parser.py
 import ast
 from dataclasses import dataclass, field
 from analyzer.reader import FileNode

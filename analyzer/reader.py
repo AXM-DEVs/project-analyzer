@@ -1,4 +1,3 @@
-# analyzer/reader.py
 import shutil
 from pathlib import Path
 from dataclasses import dataclass, field
